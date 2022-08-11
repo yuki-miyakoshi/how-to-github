@@ -1,3 +1,5 @@
+https://img.shields.io/github/license/miyakoshi-yuki/how-to-github
+
 # GitHubの使い方How to GitHub
 
 # 宮腰悠希

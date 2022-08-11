@@ -1,1 +1,1 @@
-LICENSE.markdown
+licenses/LICENSE.markdown
